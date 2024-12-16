@@ -6,7 +6,7 @@ This is a simple web-based calculator that performs basic arithmetic operations 
 
 You can access the calculator directly using the link below:
 
-[Go to Basic Calculator](#https://thanziapatelraheem.github.io/basic-calculator/)
+[Go to Basic Calculator](https://thanziapatelraheem.github.io/basic-calculator/)
 
 ## Features
 
