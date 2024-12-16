@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 25rem;
+  height: 35rem;
+  border: 1px solid black;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  margin-top: 250px;
+  overflow: hidden;
+}
+.display {
+  border: 1px solid black;
+  height: 60px;
+  margin: 9px;
+  display: inline-flex;
+  width: 90;
+  justify-content: flex-end;
+  font-size: 2.5rem;
+}
+.btn-container {
+  margin: 8px;
+}
+button {
+  width: 5.5rem;
+  height: 5.5rem;
+  margin-bottom: 6px;
+  margin-right: 2px;
+
+  font-size: 1.5rem;
+}
+.num--AC {
+  width: 11.4rem;
+}
+
+.button-operator--equals {
+  width: 11.4rem;
+}
